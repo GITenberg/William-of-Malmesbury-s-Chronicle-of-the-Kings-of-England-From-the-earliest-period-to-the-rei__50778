@@ -1,4 +1,8 @@
 _repo: William-of-Malmesbury-s-Chronicle-of-the-Kings-of-England-From-the-earliest-period-to-the-rei__50778
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50778-h/images/cover.jpg
 creator:
   author:
     agent_name: Giles, J. A. (John Allen)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '760'
     url: http://www.gutenberg.org/2009/agents/760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50778#William-of-Malmesbury-s-Chronicle-of-the-Kings-of-England-From-the-earliest-period-to-the-rei_
 gutenberg_issued: '2015-12-28'
 gutenberg_type: Text
 identifiers:
