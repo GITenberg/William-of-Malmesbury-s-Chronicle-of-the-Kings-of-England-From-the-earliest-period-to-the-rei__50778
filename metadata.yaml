@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'William of Malmesbury''s Chronicle of the Kings of England
 
   From the earliest period to the reign of King Stephen'
